@@ -1,0 +1,6 @@
+List of some libraries needed in this short project :
+
+
+BS4
+
+PILLOW
